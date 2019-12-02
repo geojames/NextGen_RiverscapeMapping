@@ -15,3 +15,5 @@ Most river system analyses are completed using either intensive, small-area surv
  1. **Small mapping boat design**: open-source and garage-build friendly
  2. **River mapping sensor package**: low-cost and (mostly) open-source hardware
  3. **Software**: Python code for collecting and processing data
+ 
+![Imgur](https://i.imgur.com/jv52sEVm.jpg
