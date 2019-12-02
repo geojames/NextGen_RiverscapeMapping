@@ -6,7 +6,7 @@
  - Aaron Zettler-Mann, University of Oregon
 
 #### Supported by the National Science Foundation
-foo<br/>Geography and Spatial Science Eager Award #1934253 | ![Imgur](https://i.imgur.com/kdqtbrK.png)
+![Imgur](https://i.imgur.com/kdqtbrK.png) | Supported by the National Science Foundation<br/>Geography and Spatial Science Eager Award #1934253
 --- | ---
 
 ### Background
