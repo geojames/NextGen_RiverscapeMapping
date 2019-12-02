@@ -5,7 +5,6 @@
  - James Dietrich, University of Northern Iowa
  - Aaron Zettler-Mann, University of Oregon
 
-#### Supported by the National Science Foundation
 ![Imgur](https://i.imgur.com/kdqtbrK.png) | Supported by the National Science Foundation<br/>Geography and Spatial Science Eager Award #1934253
 --- | ---
 
