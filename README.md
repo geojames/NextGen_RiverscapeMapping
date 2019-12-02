@@ -7,7 +7,7 @@
 
 #### Supported by the National Science Foundation
 
-Geography and Spatial Science Eager Award #1934253 | ![Imgur](https://i.imgur.com/kdqtbrK.png)
+Supported by the National Science Foundation\nGeography and Spatial Science Eager Award #1934253 | ![Imgur](https://i.imgur.com/kdqtbrK.png)
 --- | ---
 
 ### Background
